@@ -4,7 +4,7 @@
 #
 Name     : pypi-hyperlink
 Version  : 21.0.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/3a/51/1947bd81d75af87e3bb9e34593a4cf118115a8feb451ce7a69044ef1412e/hyperlink-21.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3a/51/1947bd81d75af87e3bb9e34593a4cf118115a8feb451ce7a69044ef1412e/hyperlink-21.0.0.tar.gz
 Summary  : A featureful, immutable, and correct URL for Python.
